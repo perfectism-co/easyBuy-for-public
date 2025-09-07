@@ -6,7 +6,7 @@
   你的瀏覽器不支援影片播放
 </video>
 
-[▶️ Demo Video](./README/demo.mp4)
+[▶️ Demo Video](https://youtu.be/fJzUVOKJRnY)
 
 The backend is a free trial version (with some delay).
 Please contact the developer before using the app.
